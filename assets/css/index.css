@@ -1,0 +1,15 @@
+#first-text {
+    text-align: center;
+    color: blueviolet;
+
+}
+
+.second-text {
+    text-align: center;
+}
+
+a {
+    color: brown;
+    position: absolute;
+    left: 770px;
+}
